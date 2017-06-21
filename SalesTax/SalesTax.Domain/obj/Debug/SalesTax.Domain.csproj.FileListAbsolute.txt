@@ -1,0 +1,5 @@
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Domain\bin\Debug\SalesTax.Domain.dll
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Domain\bin\Debug\SalesTax.Domain.pdb
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Domain\obj\Debug\SalesTax.Domain.csprojResolveAssemblyReference.cache
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Domain\obj\Debug\SalesTax.Domain.dll
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Domain\obj\Debug\SalesTax.Domain.pdb

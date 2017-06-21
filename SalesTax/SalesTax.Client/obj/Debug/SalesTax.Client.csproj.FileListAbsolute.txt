@@ -1,0 +1,16 @@
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Client.exe.config
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Client.exe
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Client.pdb
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Domain.dll
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Domain.pdb
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Client\obj\Debug\SalesTax.Client.csprojResolveAssemblyReference.cache
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Client\obj\Debug\SalesTax.Client.exe
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.Client\obj\Debug\SalesTax.Client.pdb
+C:\Assignments\SalesTax\Done\SalesTaxAssignment\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Client.exe.config
+C:\Assignments\SalesTax\Done\SalesTaxAssignment\SalesTax\SalesTax.Client\obj\Debug\SalesTax.Client.pdb
+C:\Assignments\SalesTax\Done\SalesTaxAssignment\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Client.exe
+C:\Assignments\SalesTax\Done\SalesTaxAssignment\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Client.pdb
+C:\Assignments\SalesTax\Done\SalesTaxAssignment\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Domain.dll
+C:\Assignments\SalesTax\Done\SalesTaxAssignment\SalesTax\SalesTax.Client\bin\Debug\SalesTax.Domain.pdb
+C:\Assignments\SalesTax\Done\SalesTaxAssignment\SalesTax\SalesTax.Client\obj\Debug\SalesTax.Client.csprojResolveAssemblyReference.cache
+C:\Assignments\SalesTax\Done\SalesTaxAssignment\SalesTax\SalesTax.Client\obj\Debug\SalesTax.Client.exe

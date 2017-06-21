@@ -1,0 +1,7 @@
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.DomainTests\obj\Debug\SalesTax.DomainTests.csprojResolveAssemblyReference.cache
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.DomainTests\bin\Debug\SalesTax.DomainTests.dll
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.DomainTests\bin\Debug\SalesTax.DomainTests.pdb
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.DomainTests\bin\Debug\SalesTax.Domain.dll
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.DomainTests\bin\Debug\SalesTax.Domain.pdb
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.DomainTests\obj\Debug\SalesTax.DomainTests.dll
+C:\Assignments\SalesTax\Done\SalesTax\SalesTax.DomainTests\obj\Debug\SalesTax.DomainTests.pdb
